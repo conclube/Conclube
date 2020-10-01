@@ -34,10 +34,6 @@
 
 
 
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=conclure&show_icons=true)](https://github.com/shivam0110)
-
 <br/>
 
 <br/>
