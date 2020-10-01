@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm A Self Taught Java and Kotlin Developer specialising in the Spigot Framework</h3>
+### Hi there 👋<h2> I'm Conclure</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knightzmc" alt="knightzmc" /> </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔧 I’m currently working on nothing.
+<h3> 👨🏻•💻 About Me </h3>
 
-- ✌🏼 I’m currently learning advanced web development.
 
-- 📫 How to reach me
-  * **Discord**: Conclure#0101(ID 299969655915806741)
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conclure&layout=compact&hide=html&theme=onedark" alt="conclure" /></p>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conclure&show_icons=true&theme=onedark" alt="conclure" /></p>
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Java
+
+- 🌐 &nbsp; HTML | CSS | JavaScript
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Databases | Computer Science
+
+<hr>
+
+
+
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=conclure&show_icons=true)](https://github.com/shivam0110)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conclure&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
 
 <p align="center">
-<a href="https://twitter.com/bristermitten" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="conclure" height="30" width="30" /></a>
+
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
+
+
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
+
+
